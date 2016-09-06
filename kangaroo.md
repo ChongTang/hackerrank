@@ -48,7 +48,8 @@ Thus, the kangaroos meet after  jumps and we print *YES*.
 
 The second kangaroo has a starting location that is ahead (further to the right) of the first kangaroo's starting location (i.e., $$x_2 > x_1$$). Because the second kangaroo moves at a faster rate (meaning $$v_2>v_1$$) and is already ahead of the first kangaroo, the first kangaroo will never be able to catch up. Thus, we print *NO*.
 
-**Solution:**
+## Solution:
+
 ```python
 #!/bin/python
 
