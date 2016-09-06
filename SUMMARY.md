@@ -1,5 +1,4 @@
 # Summary
 
-* Algorithms
 * Warmup
 
